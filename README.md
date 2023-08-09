@@ -1,0 +1,2 @@
+# python-tesseract-sample
+tesseractのサンプルリポジトリ
